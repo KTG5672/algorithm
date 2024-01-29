@@ -58,5 +58,8 @@
 </details>
 <details>
   <summary>문제</summary>
+  
+  * [BOJ_10808](https://github.com/KTG5672/algorithm/blob/cd9a39e5151169ec7555133a6f555bef71441f87/src/array/practice/BOJ_10808.java)
+  * [배열에서 특정 합이 있는지 찾기](https://github.com/KTG5672/algorithm/blob/cd9a39e5151169ec7555133a6f555bef71441f87/src/array/practice/FindSumByArray.java)
 </details>
 
