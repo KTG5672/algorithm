@@ -1,4 +1,4 @@
-# 자료구조
+# Algorithm
 ## Array
 <details>
   <summary>개념</summary>
