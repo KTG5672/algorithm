@@ -105,6 +105,8 @@
   <summary>문제</summary>
   
   * [BOJ_1406](https://github.com/KTG5672/algorithm/blob/main/src/linkedlist/practice/BOJ_1406.java)
+  * [BOJ_1158](https://github.com/KTG5672/algorithm/blob/main/src/linkedlist/practice/BOJ_1158.java)
+  * [BOJ_5397](https://github.com/KTG5672/algorithm/blob/main/src/linkedlist/practice/BOJ_5397.java)
   * 손 코딩 문제
     - 문제 1
       원형 연결리스트 에서 임의의 노드 하나가 주어 졌을때, 리스트의 길이를 구하는 방법
@@ -117,5 +119,34 @@
     - 문제 3
       어떤 연결리스트에 사이클이 있는지 판단 하는 방법
       답) Floyd's Cycle-finding Algorithm : 한칸 이동하는 커서와 두칸 이동하는 커서가 각각 이동 시 만나면 사이클이 있는 것
+</details>
+
+## Stack
+<details>
+  <summary>개념</summary>
+  
+  ### Stack
+  쌓아놓은 더미 라는 뜻으로 책상에 쌓인 책, 접시 더미 등을 연상
+  **후입 선출 (LIFO)** 의 자료구조
+  제일 상단의 데이터를 넣고 빼는 구조
+  
+  ### LIFO (Last In First Out)
+  가장 최근에 넣은 데이터가 가장 먼저 나오는 자료구조 (Last In First Out)
+  
+  ### 시간 복잡도
+  - top : O(1) - 제일 상단의 데이터를 조회
+  - push : O(1) - 제일 상단의 데이터를 추가
+  - pop : O(1) - 제일 상단의 데이터를 반환하고 삭제
+  
+  ### 활용 예시
+  Function Call Stack, 후위 표기법 연산, 괄호 유효성 검사, 웹 브라우저 방문 기록 (뒤로가기)
+
+</details>
+<details>
+  <summary>문제</summary>
+  
+  * [BOJ_10828](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_10828.java)
+  * [BOJ_10773](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_10773.java)
+  * [BOJ_2493](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_2493.java)
 </details>
 
