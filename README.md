@@ -146,5 +146,7 @@
   <summary>문제</summary>
   
   * [BOJ_10828](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_10828.java)
+  * [BOJ_10773](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_10773.java)
+  * [BOJ_2493](https://github.com/KTG5672/algorithm/blob/main/src/stack/practice/BOJ_2493.java)
 </details>
 
